@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">Moyin\'s Android Labs</string>
-    <string name="hello_message">Hello world!</string>
-    <string name="button_message">I\'m a Button</string>
+    <string name="app_name">Xiaopeng\'s Android Labs</string>
+    <string name="hello_message">Hello World!</string>
+    <string name="button_message">I\'m a button</string>
+    <string name="editmessage" translatable="false">I\'m an EditText</string>
+    <string name="hinttext" translatable="false">Write something here</string>
 </resources>
